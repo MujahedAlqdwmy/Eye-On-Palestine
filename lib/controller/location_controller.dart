@@ -61,7 +61,7 @@ class LocationControllerImp extends LocationController {
     LatLng startLocation = LatLng(position!.latitude, position!.longitude);
     LatLng endLocation = const LatLng(31.776224226203812, 35.23569437331529);
     PolylinePoints polylinePoints = PolylinePoints();
-    String googleAPiKey = "AIzaSyDbbYxpFOFaIUeF_wVcq4VPrDn0rkGjltI";
+    String googleAPiKey = "Your Api Key";
     List<LatLng> polylineCoordinates = [];
 
     markers.add(Marker(
