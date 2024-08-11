@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303680169375",
+    "project_id": "eye-on-palestine",
+    "storage_bucket": "eye-on-palestine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303680169375:android:6752dca8bd6192e58889aa",
+        "android_client_info": {
+          "package_name": "com.example.eye_on_palestine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303680169375-dovbk7bafgovhc757p89prcnqhvhboks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFrusuwL7gpVtfhjwDCzmuRXqiPmr_DxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303680169375-dovbk7bafgovhc757p89prcnqhvhboks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
